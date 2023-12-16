@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "7d90a94624cab259",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbe86c0e0434ee61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "910886b0dbf6e6ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian/remote sync.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "17865ae6c3226038",
+    "type": "split",
+    "children": [
+      {
+        "id": "e217ce068bd31fbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "718843e91a412f9e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "08cdc748ecc833be",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5be7c15ce32f6f6f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c8e0c2adbc354ca1",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fd00e2fe013eb21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0860527353b6787a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "obsidian/remote sync.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "59f7d518d675741a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "obsidian/remote sync.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1b0eb468682dc103",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fb9fabfbb5f8d3d9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "obsidian/remote sync.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "910886b0dbf6e6ee",
+  "lastOpenFiles": [
+    "vscode/Quokka.js.md",
+    "obsidian/remote sync.md",
+    "c++/span.md",
+    "xsocket/草案.md",
+    "xjson/api.md",
+    "xjson/性能.md",
+    "xjson/草案.md",
+    "c++/Class Template Argument Deduction.md",
+    "c++/literals.md",
+    "c++/memort ordering.md",
+    "c++/SpaceShip operator.md",
+    "linux/Font.md",
+    "fft 音频处理/FFT 频谱分析.md",
+    "linux/screen.md",
+    "obsidian/callout.md",
+    "obsidian/commits.md",
+    "obsidian/键盘文本.md",
+    "vscode",
+    "obsidian",
+    "车来了/返回数据.md",
+    "车来了/附件",
+    "车来了/辅助.md",
+    "车来了",
+    "build/Ninja",
+    "build",
+    "build/cmake/Ninja.md",
+    "build/cmake",
+    "linux",
+    "初等数论/gcd.md",
+    "c++",
+    "xsocket",
+    "初等数论/exgcd.md",
+    "2023-09-24.md"
+  ]
+}
