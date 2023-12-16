@@ -7,11 +7,7 @@
 >[!note] 建议使用手动管理版本, 不要浪费了如此智能的版本管理系统
 >`Ctrl+P` 找 `git backup`
 
->[!note] commit
->`commit all changes with specific messages`
->或者可以这样:
->先 `stage changes`
->然后 `commit stage with spcific messages` 
+> `specific messages` 可以自定义 `commits`
 
 ## onedrive
 
