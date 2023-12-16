@@ -8,7 +8,10 @@
 >`Ctrl+P` 找 `git backup`
 
 >[!note] commit
->`commit all changes(stage) with specific messages`
+>`commit all changes with specific messages`
+>或者可以这样:
+>先 `stage changes`
+>然后 `commit stage with spcific messages` 
 ## onedrive
 
 > [!info] 方便
